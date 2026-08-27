@@ -1,4 +1,4 @@
-# CS 3035 - Building User Interfaces - Fall 2025
+# CS 3035 - Building User Interfaces - Fall 2026
 
 ## Faculty of Computer Science - University of New Brunswick
 
@@ -14,4 +14,4 @@ This website is meant to act as the main source for all course-related details.
 ### Links to Other Course Resources
 
 - [Course site on MS Teams](https://teams.microsoft.com/l/team/19%3A6o1xmUyhGAjIMJH8BRXdiz4F6OQwQptp9PjMh2iifFA1%40thread.tacv2/conversations?groupId=5bfea4ed-96f0-45d5-b4d4-dfdc5f985f67&tenantId=244e6ed2-339a-47f3-b95c-e45351c198b7) - used for posting assignments and communications.
-- [Course GitHub Organization](https://github.com/CS-3035-2025) - used for submitting assignments, sharing code examples, and hosting this site.
+- [Course GitHub Organization](https://github.com/CS-3035-2026) - used for submitting assignments, sharing code examples, and hosting this site.
