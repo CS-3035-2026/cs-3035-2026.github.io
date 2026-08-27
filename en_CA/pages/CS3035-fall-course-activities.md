@@ -1,14 +1,12 @@
 # Contact, Activities and Dates
 
-## Instructors
+## Instructor
 
-This year the course is being co-taught by two instructors:
- - Scott Bateman 
- - Cole Campbell
+Scott Bateman is the instructor for this course.
 
 ## Contact
 
-- A team message addressed to both instructors is the preferred contact method. You can do this by clicking here: [Chat with instructors](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca,cole.campbell@unb.ca)
+- A message to the instructor is the preferred contact method. You can do this by clicking here: [Chat with instructor](https://teams.microsoft.com/l/chat/0/0?users=scottb@unb.ca)
 - Please allow up to one to two working days for response.
 - Asking questions on Teams may also allow your classmates or TA to help with questions regarding technology or other clarifications. So, this is highly encouraged. Please use the appropriate channel in our class Team for your question.
 
@@ -56,7 +54,7 @@ Activities are coding assignments that are completed independently by each stude
 
 ### Final Exam
 
-The final exam will take place during the university's exam period and will be scheduled by the Registrar’s Office. The final exam is cumulative and will cover material from the entire term, and could include multiple choice, T/F, matching, and written questions. Further details will be provided closer to the exam period. 
+The final exam will take place during the university's exam period and will be scheduled by the Registrar's Office. The final exam is cumulative and will cover material from the entire term, and could include multiple choice, T/F, matching, and written questions. Further details will be provided closer to the exam period. 
 
 ## Important Dates and Deliverable Deliverables
 
@@ -64,7 +62,7 @@ The final exam will take place during the university's exam period and will be s
 
 | Date | Item  |
 |------|-------|
-| 09/12 | Last day for adding courses |
+| 09/18 | Last day for adding courses |
 | 09/17 | Practice Activity due |
 | 09/18 | Quiz 1 |
 | 09/24 | Activity 1 due |
@@ -75,16 +73,15 @@ The final exam will take place during the university's exam period and will be s
 | 10/08 | Activity 3 due |
 | 10/09 | Quiz 4 |
 | 10/10 | Group Project Due |
-| 10/13 | Thanksgiving Monday |
+| 10/12 | Thanksgiving Monday |
 | 10/22 | Activity 4 due |
 | 10/23 | Quiz 5 |
 | 10/29 | Activity 5 due |
 | 10/30 | Quiz 6 |
 | 11/05| Project 1 due |
 | 11/06 | Quiz 7 |
-| 11/10-14| Reading Week |
+| 11/09-13| Reading Week |
 | 11/20 | Quiz 8 |
 | 12/03 | Project 2 due |
-| 12/09 | Last Class |
+| 12/11 | Last Class |
 | TBD | Final Exam |
-
