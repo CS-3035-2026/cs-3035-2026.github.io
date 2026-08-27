@@ -1,6 +1,6 @@
 # CS 3035 - Course Outline
 
-## 2025-2026 Fall Term
+## 2026-2027 Fall Term
 
 ## Description
 
