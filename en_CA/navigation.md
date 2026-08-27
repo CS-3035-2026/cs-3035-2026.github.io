@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# CS 3035 - Fall 2025
+# CS 3035 - Fall 2026
 
 <!--
   -- Default theme
