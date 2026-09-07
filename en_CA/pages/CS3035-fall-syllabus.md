@@ -53,7 +53,7 @@ A new textbook is being prepared for this course, so some readings may be provid
 
 #### SimpleKit
 
-* [Read the code on GitHub](https://github.com/CS-3035-2025/simplekit/tree/main/src)
+* [Read the code on GitHub](https://github.com/CS-3035-2026/simplekit/tree/main/src)
 
 
 ## Class Policies
