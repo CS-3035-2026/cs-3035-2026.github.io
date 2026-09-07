@@ -9,7 +9,7 @@ There are lots of great git learning resources online, like the free [Pro Git Bo
 
 ## Example Code
 
-To access example code for the course, there is a repository setup on the course's [Github Example Repo](https://github.com/CS-3035-2025/examples). 
+To access example code for the course, there is a repository setup on the course's [Github Example Repo](https://github.com/CS-3035-2026/examples). 
 
 This repository will provide you with examples to get you started and provide additional context for topics we have covered in class. The code in the repository will grow and change over time, so you will want to regularly "pull" changes and new code so that you have the latest versions. You can also "watch" the repository by "starring" it on the GitHub website so that you can be notified of any changes.
 
@@ -20,7 +20,7 @@ This repository will provide you with examples to get you started and provide ad
 Each of the class's activities, examples, and projects will be hosted on Git Hub, and you will be provided with an invite link to each as they become available.
 
 After accepting the invite to the repo in question, a fork (new copy) of that repo will be made for you to use.
-For example, accepting ```https://github.com/CS-3035-2025/Project``` a new repo called ```https://github.com/CS-3035-2025/Project-YourUserName``` will be created for you. Only you and the course instructors and TAs will have access to your repos.
+For example, accepting ```https://github.com/CS-3035-2026/Project``` a new repo called ```https://github.com/CS-3035-2026/Project-YourUserName``` will be created for you. Only you and the course instructors and TAs will have access to your repos.
 
 ### Git and VS Code
 
@@ -31,7 +31,7 @@ To open your repo in **VS Code**, do the following:
 - In the  ```Source Control``` tab of the sidebar, select ```Clone Repository```.
 - In the bar now at the top of the window, select ```Clone from Github```.
 - Enter the URL of the *your* version of the repo.
-It should look like this: ```https://github.com/CS-3035-2025/RepoName-YourName.git```
+It should look like this: ```https://github.com/CS-3035-2026/RepoName-YourName.git```
 - You will be asked where you'd like to clone this repo; this means where you would like to save the files locally on your computer while you work on them. It's highly recommended that you make a new folder for CS-3035 and then make a new folder inside that for each repo you work on.
 - After selecting ```Open```, you will have the repo loaded into VS Code and available to work in.
 
@@ -44,7 +44,7 @@ Once you have a repo open, a few steps are needed to get it ready to run and edi
 - ```git submodule init```
 - ```git submodule update```
 - If this doesn't work, you may need to read the submodule first by running the following:
-- ```git submodule add https://github.com/CS-3035-2025/simplekit``` before running the above commands
+- ```git submodule add https://github.com/CS-3035-2026/simplekit``` before running the above commands
 - After this, SimpleKit will be ready to use. Next, you just have to install the NPM packages that have already been set up for you. Just run:
 - ```npm install```
   
