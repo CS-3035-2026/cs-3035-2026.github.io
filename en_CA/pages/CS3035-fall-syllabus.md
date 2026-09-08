@@ -24,7 +24,7 @@ This course is a complement to:
 ## Class Time and Location
 
 - **Class Time**: 10:00am - 11:20am. Tuesday and Thursday. 
-- **Location**: [Kinesiology Building 201](https://unb.university-tour.com/fredericton-campus#Head%20Hallhttp://es.unb.ca/apps/map/?map=1&location=609G).
+- **Location**: [Gillan Hall - D124](https://unb.university-tour.com/fredericton-campus#Gillin%20Hall).
   
 ## Instructor and Contact
 
@@ -74,7 +74,7 @@ See above (Late Assignments)
 
 ### Missed Tests and Other In-Class Activities
 
-If a quiz or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feasible.
+If the midterm or other in-class assessment is missed, students must contact the instructor and as soon as possible. If a valid reason is provided for the missed activity, grades will likely be shifted to other items in the same grade category. Rescheduling these activities will likely not be feasible.
 
 ## AI Usage in this Course Statement
 
