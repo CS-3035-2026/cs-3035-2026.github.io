@@ -29,8 +29,8 @@ The grading scheme and number of items in the grade (in parentheses) are tentati
 - Assignments (5 activities): 20%
 - Individual Projects (2 projects): 30%
 - Group Video Presentation of Alternative UI Technology (1): 10%
-- Midterm: 20%
-- Final Exam: 20%
+- Midterm: 15%
+- Final Exam: 25%
 
 ### Projects
 
@@ -42,13 +42,13 @@ Projects should be completed using the course software (TypeScript/SimpleKit, VS
 
 The group video presentation will require you to independently research and learn the basics of an alternative UI technology for another language (other than TypeScript/SimpleKit or Java). You will work with a group to create a short video presentation introducing the technology, its philosophy, and its basic use. Your videos will be watched in class and your group is expected to be in attendance to answer questions about the technology you chose.
 
+### Assignments
+
+Coding assignments that are completed independently by each student and submitted on GitHub. 
+
 ### Midterm
 
-Further details on the midterm will be provided closer to the date.
-
-### Activities
-
-Activities are coding assignments that are completed independently by each student and submitted on GitHub. 
+The final exam is cumulative and will cover material from the entire term, and could include multiple choice, T/F, matching, and written questions. Further details will be provided closer to the exam period. 
 
 ### Final Exam
 
@@ -66,13 +66,13 @@ The final exam will take place during the university's exam period and will be s
 | 09/30 | Truth and Reconciliation Day |
 | 10/01 | Activity 2 due |
 | 10/08 | Activity 3 due |
-| 10/10 | Group Project Due |
+| 10/09 | Group Project Due |
 | 10/12 | Thanksgiving Monday |
-| 10/15 | Midterm |
-| 10/22 | Activity 4 due |
-| 10/29 | Activity 5 due |
-| 11/05| Project 1 due |
+| 10/20 | Midterm |
+| 10/29 | Activity 4 due |
+| 11/05 | Activity 5 due |
 | 11/09-13| Reading Week |
-| 12/03 | Project 2 due |
-| 12/11 | Last Class |
+| 11/17| Project 1 due |
+| 12/04 | Project 2 due |
+| 12/10 | Last Class |
 | TBD | Final Exam |
