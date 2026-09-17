@@ -62,15 +62,15 @@ The final exam will take place during the university's exam period and will be s
 |------|-------|
 | 09/18 | Last day for adding courses |
 | 09/17 | Practice Activity due |
-| 09/24 | Activity 1 due |
+| 09/24 | Assignment 1 due |
 | 09/30 | Truth and Reconciliation Day |
-| 10/01 | Activity 2 due |
-| 10/08 | Activity 3 due |
+| 10/01 | Assignment 2 due |
+| 10/08 | Assignment 3 due |
 | 10/09 | Group Project Due |
 | 10/12 | Thanksgiving Monday |
 | 10/20 | Midterm |
-| 10/29 | Activity 4 due |
-| 11/05 | Activity 5 due |
+| 10/29 | Assignment 4 due |
+| 11/05 | Assignment 5 due |
 | 11/09-13| Reading Week |
 | 11/17| Project 1 due |
 | 12/04 | Project 2 due |
