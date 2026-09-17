@@ -1,6 +1,6 @@
 # Group Project - Video Presentation of Another Interface Building Technology
  - ***Proposal/Group Due: September 23rd***
- - ***Projet Due: Oct. 10th***
+ - ***Project Due: October 9th***
 
 In a group, of four to five members, you will create a well-rehearsed and well-organized 8 minute video presenting an interface building technology other than one that uses SimpleKit, Java (JavaFX/Swing), C#/XAML or one from another class you have taken (e.g., Unity, Godot, Android, etc). 
 
@@ -26,7 +26,7 @@ Your 8-minute video will cover:
 
  - Fully demonstrate how a Hello World application is built using the technology. Explain what the commands do in the language. If it is really easy... provide some additional demonstration of the technology (e.g., add a button and event handling). approx 2-3 minutes. 
 
- - Does the language technology support applications that use an MVC architecture? Is it architecture independent or is it designed to support [another architecture](https://medium.com/@pinarkocak/mvc-mvp-and-mvvm-design-patterns-82317d6efeac) MVP, MVI, MVVM or VIPER... or something else!? Provide some explanation of how it supports a particular pattern. approx. 1 minute
+ - Is the toolkit opinionated about how you structure your interface code — does it enforce a particular way of organizing your UI and logic (a specific project structure, a required separation of view and logic, a certain event-handling style), or does it leave those decisions up to you? Provide some explanation and examples of how this shows up in the toolkit's design. approx. 1 minute
 
  - Create a simple application that allows a user to play a game of paper rock, scissors using an appropriately designed interface. Demonstrate the game and provide a brief commentary on how difficult it was to create. approx. 45 seconds
 
@@ -44,11 +44,15 @@ A limit of two groups will be able to do a presentation of the same technology. 
 
 You will need to confirm your choice of technology and register your group with the instructor by completing the form above as soon as possible.
 
-Here are some examples of toolkit you might choose. Often interface toolkits have bindings for different languages. For example, Tk is often paired with tcl, Python, and Ruby. The language you use is up to you, but  it should be a language other than Java. 
+Here are some examples of toolkits you might choose. Often interface toolkits have bindings for different languages, and the language you use is up to you — but it should be a language other than Java, and not a technology you've already used for GUI development in another class.
 
-For example Tk, FLTK, FOX Toolkit, GTK, CEGUI, Qt are good options and work with languages other than Java. 
+**Immediate-mode / minimal toolkits**: [Dear ImGui](https://github.com/ocornut/imgui) (C++), [egui](https://github.com/emilk/egui) (Rust), [Slint](https://github.com/slint-ui/slint) (Rust/C++), [raylib](https://github.com/raysan5/raylib) + [raygui](https://github.com/raysan5/raygui) (C), [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) (C), [DearPyGui](https://github.com/hoffstadt/DearPyGui) (Python, built on Dear ImGui)
 
-More possibilities are listed on Wikipedia’s list of [High-Level Widget Toolkits](https://en.m.wikipedia.org/wiki/List_of_widget_toolkits). 
+**Retained-mode widget toolkits**: [Toga/BeeWare](https://github.com/beeware/toga) (Python), [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) (Python), [Fyne](https://github.com/fyne-io/fyne) (Go), [NodeGui](https://github.com/nodegui/nodegui) (JavaScript, native Qt widgets — not browser-based), [NiceGUI](https://github.com/zauberzeug/nicegui) (Python — note its UI renders through an in-browser front end rather than native widgets)
+
+**Established, heavier toolkits**: [Qt](https://www.qt.io/), [GTK](https://www.gtk.org/), [wxWidgets](https://github.com/wxWidgets/wxWidgets)
+
+If you'd like a PySimpleGUI-style API, use [FreeSimpleGUI](https://github.com/spyoungtech/FreeSimpleGUI) instead — an actively-maintained free fork (current PySimpleGUI releases require a paid licence).
 
 You may also propose a toolkit that is not listed here. You can suggest these, but have a secondary option available in the case the instructor determines the proposed toolkit is inappropriate. 
 
@@ -73,8 +77,7 @@ Your video should adhere to the strict 8-minute time limit. Suggested timings fo
  
  - Have a Teams meeting with your group and record your presentation. Download your presentation and submit. 
 
- - You may wish to use an edit
- ing program to tweak or edit your video. This is totally optional and it is expected that Teams and PowerPoint will be sufficient for creating your video. 
+ - You may wish to use an editing program to tweak or edit your video. This is totally optional and it is expected that Teams and PowerPoint will be sufficient for creating your video. 
 
 ## Grades
 
@@ -91,4 +94,5 @@ You should submit your group project by the due date.
  - Upload your video or provide a link to your video online to the Dropbox on D2L.
 
  - Please make sure your video is visible publicly in case of posting it online. 
+ 
 
