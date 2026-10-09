@@ -65,7 +65,7 @@ The final exam will take place during the university's exam period and will be s
 | 09/24 | Assignment 1 due |
 | 09/30 | Truth and Reconciliation Day |
 | 10/01 | Assignment 2 due |
-| 10/08 | Assignment 3 due |
+| 10/15 | Assignment 3 due |
 | 10/09 | Group Project Due |
 | 10/12 | Thanksgiving Monday |
 | 10/20 | Midterm |
