@@ -48,7 +48,7 @@ Coding assignments that are completed independently by each student and submitte
 
 ### Midterm
 
-The final exam is cumulative and will cover material from the entire term, and could include multiple choice, T/F, matching, and written questions. Further details will be provided closer to the exam period. 
+The midterm is written in class on October 20 and covers the material from the first part of the term. It could include multiple choice, T/F, matching, and written questions. 
 
 ### Final Exam
 
@@ -60,14 +60,14 @@ The final exam will take place during the university's exam period and will be s
 
 | Date | Item  |
 |------|-------|
-| 09/18 | Last day for adding courses |
 | 09/17 | Practice Activity due |
+| 09/18 | Last day for adding courses |
 | 09/24 | Assignment 1 due |
 | 09/30 | Truth and Reconciliation Day |
 | 10/01 | Assignment 2 due |
-| 10/15 | Assignment 3 due |
 | 10/09 | Group Project Due |
 | 10/12 | Thanksgiving Monday |
+| 10/15 | Assignment 3 due |
 | 10/20 | Midterm |
 | 10/29 | Assignment 4 due |
 | 11/05 | Assignment 5 due |
@@ -75,4 +75,4 @@ The final exam will take place during the university's exam period and will be s
 | 11/17| Project 1 due |
 | 12/04 | Project 2 due |
 | 12/10 | Last Class |
-| TBD | Final Exam |
+| 12/13 | Final Exam, 7:00 pm |
